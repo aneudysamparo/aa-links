@@ -1,0 +1,52 @@
+{
+    "name": "Links",
+    "short_name": "Links",
+    "icons": [
+        {
+            "sizes": "114x114",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "120x120",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "144x144",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "152x152",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "180x180",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "57x57",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "60x60",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "72x72",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "sizes": "76x76",
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4"
+        },
+        {
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://avatars.githubusercontent.com/u/77206028?s=460&u=223e6f2db42c3c8c1d790b5d9507c03512843432&v=4",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
